@@ -1,0 +1,38 @@
+[hipots]
+Megger DLRO100E
+AR OmniaII 8xxx Electrical Safety Analyzer
+
+
+[scopes]
+MDO4054B
+TDS 3xxx
+TDS 2xxx
+MSO 4xxx
+DPO 4xxx
+DPO 3xxx
+
+[meters]
+3440lA multimeter
+fluke handhelds (77II, 87V, 23, 117, etc)
+
+[power supplies]
+AR 6200 AC PWR
+E6361a DC supply
+
+
+[other]
+34972A Data acquisition unit
+
+
+[standards]
+fluke 5520
+fluke 5720a
+fluke 5725
+fluke 5320
+vitrek 4700
+fluke 5522
+HP 3325a - signal gen
+Power meter
+Power analyzer
+Spectrum analyzer
+
